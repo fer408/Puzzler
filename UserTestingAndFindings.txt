@@ -1,0 +1,16 @@
+Does the app look like it is supposed to?
+No. The color of the building is white and does not reflect what the Unity editor is showing.
+
+Does the app feel like room scale?
+No. It feels as though I am smaller than what I usually feel in the real world.
+
+Does the lighting work?
+No. None of the lighting is working as expected.
+
+How is the atmosphere?
+Preety blank since the inside of the building is white with a few floating blue orbs.
+
+Findings:
+
+I find that the program needs to be worked on until the app on my phone reflects the app on the
+Unity editor.Also I have to scale down the building.
